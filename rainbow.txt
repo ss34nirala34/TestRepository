@@ -6,4 +6,6 @@ Green
 Magenta
 Black
 
+Unicorn
+
 This is my rainbow.
