@@ -3,5 +3,6 @@ Colors:
 Red
 Blue
 Green
+Magenta
 
 This is my rainbow.
