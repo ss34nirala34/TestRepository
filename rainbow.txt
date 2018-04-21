@@ -4,5 +4,6 @@ Red
 Blue
 Green
 Magenta
+Black
 
 This is my rainbow.
