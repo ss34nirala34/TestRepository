@@ -1,0 +1,7 @@
+This is a rainbow.
+Colors:
+Red
+Blue
+Green
+
+This is my rainbow.
