@@ -3,6 +3,7 @@ Colors:
 Red
 Blue
 Green
+Indigo
 Magenta
 Black
 
